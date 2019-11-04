@@ -1,0 +1,18 @@
+Package: Bross
+Title: Statistica Descrittiva
+Version: 0.3.19.1030
+Authors@R: 
+    person(given = "Mario",
+           family = "Medone",
+           role = c("aut", "cre"),
+           email = "mario.medone@gmail.com",
+           comment = c(ORCID = NULL))
+Description: Un insieme di funzioni per svolgere analisi qualitativa e quantitativa dei dati, cluster analysis e analisi in componenti principali. A breve verrà resa pubblica la versione in Inglese.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports:
+    colorspace
+Depends:
+    R (>= 3.1)
