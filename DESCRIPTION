@@ -1,6 +1,6 @@
 Package: Bross
 Title: Statistica Descrittiva
-Version: 0.3.19.1030
+Version: 0.3.19.1105
 Authors@R: 
     person(given = "Mario",
            family = "Medone",
@@ -15,4 +15,4 @@ RoxygenNote: 6.1.1
 Imports:
     colorspace
 Depends:
-    R (>= 3.1)
+    R (>= 3.5.0)
